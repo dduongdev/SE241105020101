@@ -1,0 +1,5 @@
+package com.dduongdev;
+
+public interface BankTransactionFilter {
+
+}
