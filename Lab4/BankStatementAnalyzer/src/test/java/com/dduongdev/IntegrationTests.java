@@ -10,7 +10,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 
-public class InteractionTests {
+public class IntegrationTests {
 	/**
 	 * Test toàn bộ luồng chương trình từ đọc file, chuyển đổi dữ liệu thành đối tượng, và phân tích dữ liệu.
 	 * 
