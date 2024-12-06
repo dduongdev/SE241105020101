@@ -11,6 +11,10 @@ import java.util.List;
 import org.junit.jupiter.api.Test;
 
 public class InteractionTests {
+	/***
+	 * Test toàn bộ luồng chương trình từ đọc file, chuyển đổi dữ liệu thành đối tượng, và phân tích dữ liệu.
+	 * @throws Exception
+	 */
 	@Test
 	public void csvParser_processor_shouldSuccess() throws Exception {
 		final Path filePath = Paths.get("src/transactions.csv");
