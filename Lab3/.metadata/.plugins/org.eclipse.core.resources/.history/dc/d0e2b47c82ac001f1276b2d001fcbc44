@@ -1,5 +1,0 @@
-package com.dduongdev;
-
-public interface BankTransactionSummarizer {
-
-}
